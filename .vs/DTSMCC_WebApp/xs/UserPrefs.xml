@@ -1,0 +1,62 @@
+﻿<Properties StartupConfiguration="{31805BFC-ED95-4487-9F09-46223B9D505D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/RegionController.cs">
+    <Files>
+      <File FileName="DTSMCC_WebApp/Controllers/DepartmentController.cs" Line="23" Column="1" />
+      <File FileName="DTSMCC_WebApp/Views/Department/Create.cshtml" Line="38" Column="38" />
+      <File FileName="DTSMCC_WebApp/Views/Department/Index.cshtml" />
+      <File FileName="DTSMCC_WebApp/Views/Department/Update.cshtml" />
+      <File FileName="DTSMCC_WebApp/Views/Department/Delete.cshtml" />
+      <File FileName="API/Startup.cs" Line="39" Column="10" />
+      <File FileName="DTSMCC_WebApp/Startup.cs" Line="12" Column="29" />
+      <File FileName="API/appsettings.json" Line="10" Column="104" />
+      <File FileName="DTSMCC_WebApp/appsettings.json" Line="10" Column="104" />
+      <File FileName="API/Context/MyContext.cs" Line="6" Column="30" />
+      <File FileName="API/Models/Department.cs" Line="13" Column="9" />
+      <File FileName="API/Models/Division.cs" Line="7" Column="1" />
+      <File FileName="API/Models/Region.cs" Line="7" Column="1" />
+      <File FileName="DTSMCC_WebApp/Models/Department.cs" Line="1" Column="1" />
+      <File FileName="DTSMCC_WebApp/Models/Division.cs" Line="17" Column="1" />
+      <File FileName="DTSMCC_WebApp/Models/Region.cs" Line="17" Column="1" />
+      <File FileName="API/Controllers/DivisionController.cs" Line="14" Column="5" />
+      <File FileName="DTSMCC_WebApp/Context/MyContext.cs" Line="6" Column="30" />
+      <File FileName="API/Controllers/WeatherForecastController.cs" Line="10" Column="22" />
+      <File FileName="API/Region.cs" Line="8" Column="14" />
+      <File FileName="API/Department.cs" Line="10" Column="25" />
+      <File FileName="API/WeatherForecast.cs" Line="16" Column="1" />
+      <File FileName="API/Program.cs" Line="1" Column="1" />
+      <File FileName="API/Properties/launchSettings.json" Line="15" Column="9" />
+      <File FileName="DTSMCC_WebApp/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="API/Controllers/DepartmentController.cs" Line="1" Column="1" />
+      <File FileName="API/Controllers/RegionController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DTSMCC_WebApp" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="RegionController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="DTSMCC_WebApp" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.DTSMCC__WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
